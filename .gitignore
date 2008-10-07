@@ -1,0 +1,10 @@
+bin/
+obj/
+*.dll
+*.suo
+*.user
+*.pdb
+*.resharper
+*.resharper.user
+*.gpState
+*.swp
